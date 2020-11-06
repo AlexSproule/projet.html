@@ -1,29 +1,37 @@
-
-}
 h2 {
-font size: 30 px
-line height:2 
-letter-spacing:2px
+  font-size: 40px;
+  text-align: center;
 }
+
+h4 {
+  font-size: 25px;
+  line-height:2 ;
+  letter-spacing:2px;
+}
+
 p, li {
   font-size: 16px;    
   line-height: 2;
   letter-spacing: 1px;
-html {
-  background-color:orange 
-  color:white;/*Le texte de la page sera blanc
 }
+  
 body {
   width: 600px;
   margin: 0 auto;
-  background-color: orange;
+  background-color: #FF9500;
   padding: 0 20px 20px 20px;
   border: 5px solid black;
 }
+
+html {
+  background-color:orange;
+  color:white;
+}
+  
 h1 {
   margin: 0;
   padding: 20px 0;    
-  color: black ;
+  color: #00539F;
   text-shadow: 3px 3px 1px black;
 }
 img {
